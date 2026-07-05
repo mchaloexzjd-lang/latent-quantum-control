@@ -1,5 +1,5 @@
+
 # End-to-End-Learning-of-Quantum-Control-on-Latent-Dynamical-Manifold
-End-to-end Learning of Quantum Control on Latent Dynamical Manifold (code)
 
 This repository provides a PyTorch implementation of an end-to-end learning framework for quantum control on latent dynamical manifolds.
 
