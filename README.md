@@ -19,3 +19,6 @@ pip install -r requirements.txt
 
 ### Step 1: Data Generation
 python data_gen_two_level_train.py
+
+### Step 2: Model training
+python model_train_two_level.py
