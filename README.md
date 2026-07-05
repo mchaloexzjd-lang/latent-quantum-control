@@ -16,3 +16,6 @@ Install dependencies via:
 
 ```bash
 pip install -r requirements.txt
+
+### Step 1: Data Generation
+python data_gen_two_level_train.py
